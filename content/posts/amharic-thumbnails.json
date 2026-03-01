@@ -1,0 +1,111 @@
+[
+  {
+    "id": "daad-scholarship-germany",
+    "badge_am": "ሙሉ ነፃ ስኮላርሺፕ",
+    "headline_am": "ጀርመን ውስጥ በነፃ ተማር",
+    "subheadline_am": "DAAD ስኮላርሺፕ 2026/27 — ለሁሉም የማስተርስ እና PhD ፕሮግራሞች",
+    "highlightLabel_am": "ወርሃዊ አበል + የትምህርት ክፍያ ነፃ",
+    "deadline_am": "የመጨረሻ ቀን: ጥቅምት 15, 2026"
+  },
+  {
+    "id": "japan-engineer-visa",
+    "badge_am": "ጃፓንኛ አያስፈልግም",
+    "headline_am": "ጃፓን ውስጥ እንደ ዲቨሎፐር ስራ",
+    "subheadline_am": "10+ ኩባንያዎች አሁን ቅጥር እያደረጉ ነው — እንግሊዝኛ ብቻ, ቪዛ ስፖንሰር",
+    "highlightLabel_am": "ዓመታዊ ደመወዝ (ዶላር)"
+  },
+  {
+    "id": "eu-blue-card-2026",
+    "badge_am": "ኢዩ ብሉ ካርድ",
+    "headline_am": "በአውሮፓ ቋሚ መኖሪያ",
+    "subheadline_am": "ኢዩ ብሉ ካርድ — ለ IT ባለሙያዎች ፈጣን ህጋዊ መንገድ",
+    "highlightLabel_am": "ቋሚ መኖሪያ ለማግኘት"
+  },
+  {
+    "id": "chevening-scholarship",
+    "badge_am": "የእንግሊዝ ስኮላርሺፕ",
+    "headline_am": "ቸቭኒንግ ስኮላርሺፕ ዩኬ",
+    "subheadline_am": "ለአንድ ዓመት ማስተርስ ሙሉ የገንዘብ ድጋፍ — በማንኛውም የዩኬ ዩኒቨርስቲ",
+    "highlightLabel_am": "ትምህርት + ኑሮ + ጉዞ + ቪዛ",
+    "deadline_am": "ይከፈታል: ነሐሴ 2026"
+  },
+  {
+    "id": "nz-green-list",
+    "badge_am": "ፈጣን PR",
+    "headline_am": "ኒውዚላንድ ችሎታህን ትፈልጋለች",
+    "subheadline_am": "ሶፍትዌር ኢንጂነሮች በግሪን ሊስት — ፈጣን ወደ መኖሪያ ፍቃድ",
+    "highlightLabel_am": "የከፍተኛ ዲቨሎፐር ደመወዝ"
+  },
+  {
+    "id": "remittance-comparison",
+    "badge_am": "ገንዘብ ቆጥብ",
+    "headline_am": "በገንዘብ ዝውውር ላይ ማጣት አቁም",
+    "subheadline_am": "ወደ ኢትዮጵያ ገንዘብ ለመላክ ምርጥ ዋጋዎች — ተነጻጽረዋል",
+    "highlightLabel_am": "ትክክለኛውን አገልግሎት በመምረጥ"
+  },
+  {
+    "id": "mext-japan-scholarship",
+    "badge_am": "የጃፓን ስኮላርሺፕ",
+    "headline_am": "MEXT ስኮላርሺፕ ጃፓን",
+    "subheadline_am": "የጃፓን መንግስት — ለማስተርስ እና PhD ሙሉ ነፃ",
+    "highlightLabel_am": "ወርሃዊ አበል (~$920 ዶላር)",
+    "deadline_am": "የመጨረሻ ቀን: ሚያዝያ 2026"
+  },
+  {
+    "id": "turkey-tech-hub",
+    "badge_am": "ቴክ ማዕከል",
+    "headline_am": "ኢስታንቡል — የአፍሪካ ወደ ቴክ በር",
+    "subheadline_am": "ኢትዮጵያውያን ዲቨሎፐሮች ለምን ወደ ቱርክ ቴክ ይሄዳሉ",
+    "highlightLabel_am": "የዲቨሎፐር ደመወዝ (ዝቅተኛ ኑሮ!)"
+  },
+  {
+    "id": "canada-express-entry",
+    "badge_am": "ኤክስፕረስ ኤንትሪ",
+    "headline_am": "ካናዳ 500,000 ስደተኞች/ዓመት ትፈልጋለች",
+    "subheadline_am": "ለ IT ባለሙያዎች ኤክስፕረስ ኤንትሪ — የስራ ቅጥር ማቅረብ አያስፈልግም",
+    "highlightLabel_am": "አማካይ የማቀናበሪያ ጊዜ"
+  },
+  {
+    "id": "erasmus-mundus",
+    "badge_am": "የኢዩ ስኮላርሺፕ",
+    "headline_am": "በ2+ የኢዩ ሀገራት ተማር",
+    "subheadline_am": "ኤራስሙስ ሙንዱስ — በአውሮፓ ዙሪያ ሙሉ ነፃ ትምህርት",
+    "highlightLabel_am": "+ ትምህርት + ጉዞ + ኢንሹራንስ",
+    "deadline_am": "በፕሮግራም ይለያያል"
+  },
+  {
+    "id": "dubai-to-europe-strategy",
+    "badge_am": "ስትራቴጂ",
+    "headline_am": "ዱባይ → አውሮፓ የስደት መንገድ",
+    "subheadline_am": "የUAE ልምድ ለ ኢዩ ብሉ ካርድ እንዴት ይጠቅማል",
+    "highlightLabel_am": "ዱባይ → ልምድ → ኢዩ ብሉ ካርድ"
+  },
+  {
+    "id": "top-countries-developers-2026",
+    "badge_am": "ደረጃ",
+    "headline_am": "ለዲቨሎፐሮች ምርጥ 7 ሀገራት 2026",
+    "subheadline_am": "ምርጥ ደመወዝ, ቀላል ቪዛ, እና ጥራት ያለው ኑሮ — ደረጃ",
+    "highlightLabel_am": "ችሎታዎን አሁን የሚፈልጉ"
+  },
+  {
+    "id": "free-german-courses",
+    "badge_am": "ነፃ ኮርሶች",
+    "headline_am": "ጀርመንኛ በነፃ ኦንላይን ተማር",
+    "subheadline_am": "ከቤት ሆነው B1 ደረጃ ለመድረስ 5 ነፃ ምንጮች",
+    "highlightLabel_am": "ምንም ክፍያ — ዛሬ ጀምር"
+  },
+  {
+    "id": "ethiopia-passport-power",
+    "badge_am": "ታውቃለህ?",
+    "headline_am": "የኢትዮጵያ ፓስፖርት 2026",
+    "subheadline_am": "ያለ ቪዛ የሚገቡ ሀገራት, ኢ-ቪዛ ሀገራት እና ጉዞን ከፍ ማድረግ",
+    "highlightLabel_am": "ያለ ቪዛ ወይም በደረሱ ጊዜ ቪዛ"
+  },
+  {
+    "id": "remote-work-from-ethiopia",
+    "badge_am": "በዶላር ያግኙ",
+    "headline_am": "ከኢትዮጵያ $3K-$10K/ወር ያግኙ",
+    "subheadline_am": "በዶላር የሚከፍሉ የሩቅ ስራ መድረኮች — ከአዲስ አበባ ይስሩ",
+    "highlightLabel_am": "የሩቅ ዲቨሎፐር ደመወዝ በዶላር"
+  }
+]
